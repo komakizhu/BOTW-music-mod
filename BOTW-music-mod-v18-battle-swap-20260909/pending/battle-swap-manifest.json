@@ -1,0 +1,52 @@
+{
+  "version": "v18",
+  "base": "/Volumes/T7_1T/塞尔达旷野之息/work/BOTW-music-mod-approved-20260904-v16/content",
+  "swaps": [
+    {
+      "destination_slot": "BGM_FieldBattle_QuickIntro_key2",
+      "before": "ojos tristes",
+      "after": "神の怒り",
+      "source_slot": "BGM_FieldBattle_Easy1_key1"
+    },
+    {
+      "destination_slot": "BGM_FieldBattle_Easy1_key1",
+      "before": "神の怒り",
+      "after": "ojos tristes",
+      "source_slot": "BGM_FieldBattle_QuickIntro_key2"
+    }
+  ],
+  "bars_prefetch_updated": [
+    [
+      "BGM_FieldBattle_Easy1_key1",
+      "FieldBattleBgm.bars"
+    ],
+    [
+      "BGM_FieldBattle_QuickIntro_key2",
+      "D_FieldBattleBgm.bars"
+    ]
+  ],
+  "files": {
+    "Sound/Resource/Stream/BGM_FieldBattle_QuickIntro_key2.bfstm": {
+      "bytes": 5554656,
+      "before_sha256": "2b56752237c77d2947301eafb81748fd203430bbb973256a73777e4ed2b494de",
+      "sha256": "b64581e8eaf170c9ebf797a818ff8de04954e9dca4ac8e09acef39d815fb1411",
+      "source_slot": "BGM_FieldBattle_Easy1_key1"
+    },
+    "Sound/Resource/Stream/BGM_FieldBattle_Easy1_key1.bfstm": {
+      "bytes": 11082688,
+      "before_sha256": "b64581e8eaf170c9ebf797a818ff8de04954e9dca4ac8e09acef39d815fb1411",
+      "sha256": "2b56752237c77d2947301eafb81748fd203430bbb973256a73777e4ed2b494de",
+      "source_slot": "BGM_FieldBattle_QuickIntro_key2"
+    },
+    "Sound/Resource/FieldBattleBgm.bars": {
+      "bytes": 1392896,
+      "before_sha256": "e1690eef35365414e9a4ab88ba01d3a4bea1cb66842e606576c7dc60d7196d4f",
+      "sha256": "4add435086fb9f6b8f9e774b67331cfc25f385406d28434f67f3a207c091cea8"
+    },
+    "Sound/Resource/D_FieldBattleBgm.bars": {
+      "bytes": 1094464,
+      "before_sha256": "c305bc7908d89f630a19028c6bcc3861e1b94bc86f4465b86ab2b590b82960f0",
+      "sha256": "3e8eac7cecc39c36f1ebefcdaef10fd2bca6e62a9bfa303d8fec19cd930db925"
+    }
+  }
+}
