@@ -22,7 +22,7 @@ V17 的最新 `content/Pack/TitleBG.pack` 也随包带入，确保神庙提示�
 - `preview/01_QuickIntro_key2_神の怒り_60s.mp3`：对调后 QuickIntro 试听。
 - `preview/02_Easy1_key1_ojos_tristes_60s.mp3`：对调后 Easy1 key1 试听。
 - `pending/battle-swap-manifest.json`：来源、SHA-256 和对调记录。
-- `tools/swap_battle_tracks.py`：从 V16 基线重新生成四个战斗资源和清单的脚本；V18 携带的 V17 `TitleBG.pack` 是刻意保留的上一版资源，试听 MP3 则由生成后的 BFSTM 用 `vgmstream`/`ffmpeg` 导出。
+- 仓库根目录的 `tools/swap_battle_tracks.py`：从 V16 基线重新生成四个战斗资源和清单的脚本；V18 携带的 V17 `TitleBG.pack` 是刻意保留的上一版资源，试听 MP3 则由生成后的 BFSTM 用 `vgmstream`/`ffmpeg` 导出。
 
 ## 文件级验证
 
@@ -31,4 +31,4 @@ V17 的最新 `content/Pack/TitleBG.pack` 也随包带入，确保神庙提示�
 - 两份 BARS 均保持原文件大小和入口结构，两个目标 BFSTP 的 INFO 与前 `0xC000` 字节预取音频已从对调后的 BFSTM 更新。
 - `TitleBG.pack` 保持 V17 文件大小 `147,198,458` bytes。
 
-该项目是 Switch 游戏音频覆盖包，不是 App，因此没有 App 编译步骤；没有写入 SD 卡，也没有修改 `main`。
+该项目是 Switch 游戏音频覆盖包，不是 App，因此没有 App 编译步骤；安装时需自行将资源覆盖到既有 V16/V17 包。
