@@ -1,0 +1,500 @@
+{
+  "version": "V19",
+  "generated_at": "2026-09-10",
+  "package": "BOTW-music-mod-V19-20260910",
+  "target_title_id": "01007EF00011E000",
+  "target_subdirectory": "atmosphere/contents/01007EF00011E000/romfs",
+  "content_file_count": 95,
+  "content_bytes": 522254002,
+  "source_commits": [
+    {
+      "commit": "914713cd057822a788649b25049a8e66646b7a77",
+      "subject": "匹配神庙提示音原版电平"
+    },
+    {
+      "commit": "c3a2866c0ddd47096ace35cc6fb4bcdaafa5a7c5",
+      "subject": "feat: swap V18 battle music tracks"
+    },
+    {
+      "commit": "826b5b28fcf6ffb75ec75f6ec7a320bec2501ff9",
+      "subject": "Fix Blood Moon single-play music chain"
+    }
+  ],
+  "files": [
+    {
+      "path": "Pack/Bootup.pack",
+      "size": 31838416,
+      "sha256": "77ea13c5f3337c7e3cde84637a016adbef3ce280d9c39dacb39e4d0787bebbff"
+    },
+    {
+      "path": "Pack/TitleBG.pack",
+      "size": 147198458,
+      "sha256": "0c6202d5713947214d69403da37cb867619674142e13dba706eda1a0d016bf77"
+    },
+    {
+      "path": "Sound/Resource/CastleBgm.bars",
+      "size": 49824,
+      "sha256": "7c8fa58d89eb0d3d1ce1ce679774d7c2bccfd71d1ca60cb942e623dd77fcf923"
+    },
+    {
+      "path": "Sound/Resource/D_FieldBattleBgm.bars",
+      "size": 1094464,
+      "sha256": "3e8eac7cecc39c36f1ebefcdaef10fd2bca6e62a9bfa303d8fec19cd930db925"
+    },
+    {
+      "path": "Sound/Resource/FieldBattleBgm.bars",
+      "size": 1392896,
+      "sha256": "4add435086fb9f6b8f9e774b67331cfc25f385406d28434f67f3a207c091cea8"
+    },
+    {
+      "path": "Sound/Resource/GuardianBgm.bars",
+      "size": 576272,
+      "sha256": "f2b47bffc290baa8d68b62a0e30dcb0d57221c8ff9e0eb7cede5a4285ca5bc09"
+    },
+    {
+      "path": "Sound/Resource/GuardianFixedBgm.bars",
+      "size": 49824,
+      "sha256": "1c06486c9c1283e27ee2152a305e862063eb8e930d9498516ce5aa4e7c5756e6"
+    },
+    {
+      "path": "Sound/Resource/OmenOfBloodyMoonBgm.bars",
+      "size": 1240,
+      "sha256": "9d4bed889988ebc318b4b8fc3fd6f3b744813b73fbef9aa1ad47a27026850826"
+    },
+    {
+      "path": "Sound/Resource/PutPictureBgm.bars",
+      "size": 49824,
+      "sha256": "4bea2ecd7cdc4861840f76edd88d774875fc22cf687d9f35fb30996cc24b9c1c"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_Castle.bfstm",
+      "size": 5845952,
+      "sha256": "f52c88e5c95749b24cf4991628270bef92f11ebf2a779c055e788beb017797bf"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_DungeonMessage.bfstm",
+      "size": 680864,
+      "sha256": "3f16bcf7e1c79510faa87d1102856ac8fa722ecdbce6f1324b05dd691b9ae471"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_FieldBattle_Easy1_key0.bfstm",
+      "size": 5951360,
+      "sha256": "62207a7fb89947b1e31225c9905c901f6d7723426fa37aa4a8a88b18645aaf62"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_FieldBattle_Easy1_key1.bfstm",
+      "size": 11082688,
+      "sha256": "2b56752237c77d2947301eafb81748fd203430bbb973256a73777e4ed2b494de"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_FieldBattle_Easy1_key2.bfstm",
+      "size": 6132416,
+      "sha256": "eea40e06a908816a827b3b3982bc55ef133f87b3ac7af7c9ed8ca1f13bf29cd8"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_FieldBattle_Easy2_key0.bfstm",
+      "size": 180896,
+      "sha256": "9668dcfb7674113adaa9a5d1c431f78d22ee3c3982390c211a8857c99107e8d7"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_FieldBattle_Easy2_key1.bfstm",
+      "size": 180896,
+      "sha256": "9668dcfb7674113adaa9a5d1c431f78d22ee3c3982390c211a8857c99107e8d7"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_FieldBattle_Easy2_key2.bfstm",
+      "size": 180896,
+      "sha256": "9668dcfb7674113adaa9a5d1c431f78d22ee3c3982390c211a8857c99107e8d7"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_FieldBattle_Easy3_key0.bfstm",
+      "size": 180896,
+      "sha256": "9668dcfb7674113adaa9a5d1c431f78d22ee3c3982390c211a8857c99107e8d7"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_FieldBattle_Easy3_key1.bfstm",
+      "size": 180896,
+      "sha256": "9668dcfb7674113adaa9a5d1c431f78d22ee3c3982390c211a8857c99107e8d7"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_FieldBattle_Easy3_key2.bfstm",
+      "size": 180896,
+      "sha256": "9668dcfb7674113adaa9a5d1c431f78d22ee3c3982390c211a8857c99107e8d7"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_FieldBattle_Easy4_keyX.bfstm",
+      "size": 180896,
+      "sha256": "9668dcfb7674113adaa9a5d1c431f78d22ee3c3982390c211a8857c99107e8d7"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_FieldBattle_Easy5_key0_a.bfstm",
+      "size": 180896,
+      "sha256": "9668dcfb7674113adaa9a5d1c431f78d22ee3c3982390c211a8857c99107e8d7"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_FieldBattle_Easy5_key0_b.bfstm",
+      "size": 180896,
+      "sha256": "9668dcfb7674113adaa9a5d1c431f78d22ee3c3982390c211a8857c99107e8d7"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_FieldBattle_Easy5_key1_a.bfstm",
+      "size": 180896,
+      "sha256": "9668dcfb7674113adaa9a5d1c431f78d22ee3c3982390c211a8857c99107e8d7"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_FieldBattle_Easy5_key1_b.bfstm",
+      "size": 180896,
+      "sha256": "9668dcfb7674113adaa9a5d1c431f78d22ee3c3982390c211a8857c99107e8d7"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_FieldBattle_Easy5_key2_a.bfstm",
+      "size": 180896,
+      "sha256": "9668dcfb7674113adaa9a5d1c431f78d22ee3c3982390c211a8857c99107e8d7"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_FieldBattle_Easy5_key2_b.bfstm",
+      "size": 180896,
+      "sha256": "9668dcfb7674113adaa9a5d1c431f78d22ee3c3982390c211a8857c99107e8d7"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_FieldBattle_Easy6_key0.bfstm",
+      "size": 180896,
+      "sha256": "9668dcfb7674113adaa9a5d1c431f78d22ee3c3982390c211a8857c99107e8d7"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_FieldBattle_Easy6_key1.bfstm",
+      "size": 180896,
+      "sha256": "9668dcfb7674113adaa9a5d1c431f78d22ee3c3982390c211a8857c99107e8d7"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_FieldBattle_Easy6_key2.bfstm",
+      "size": 180896,
+      "sha256": "9668dcfb7674113adaa9a5d1c431f78d22ee3c3982390c211a8857c99107e8d7"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_FieldBattle_Hard0_key0.bfstm",
+      "size": 180896,
+      "sha256": "9668dcfb7674113adaa9a5d1c431f78d22ee3c3982390c211a8857c99107e8d7"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_FieldBattle_Hard0_key1.bfstm",
+      "size": 180896,
+      "sha256": "9668dcfb7674113adaa9a5d1c431f78d22ee3c3982390c211a8857c99107e8d7"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_FieldBattle_Hard0_key2.bfstm",
+      "size": 180896,
+      "sha256": "9668dcfb7674113adaa9a5d1c431f78d22ee3c3982390c211a8857c99107e8d7"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_FieldBattle_Hard1_key0_a.bfstm",
+      "size": 180896,
+      "sha256": "9668dcfb7674113adaa9a5d1c431f78d22ee3c3982390c211a8857c99107e8d7"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_FieldBattle_Hard1_key0_b.bfstm",
+      "size": 180896,
+      "sha256": "9668dcfb7674113adaa9a5d1c431f78d22ee3c3982390c211a8857c99107e8d7"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_FieldBattle_Hard1_key1_a.bfstm",
+      "size": 180896,
+      "sha256": "9668dcfb7674113adaa9a5d1c431f78d22ee3c3982390c211a8857c99107e8d7"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_FieldBattle_Hard1_key1_b.bfstm",
+      "size": 180896,
+      "sha256": "9668dcfb7674113adaa9a5d1c431f78d22ee3c3982390c211a8857c99107e8d7"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_FieldBattle_Hard1_key2_a.bfstm",
+      "size": 180896,
+      "sha256": "9668dcfb7674113adaa9a5d1c431f78d22ee3c3982390c211a8857c99107e8d7"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_FieldBattle_Hard1_key2_b.bfstm",
+      "size": 180896,
+      "sha256": "9668dcfb7674113adaa9a5d1c431f78d22ee3c3982390c211a8857c99107e8d7"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_FieldBattle_Middle0_key0_a.bfstm",
+      "size": 180896,
+      "sha256": "9668dcfb7674113adaa9a5d1c431f78d22ee3c3982390c211a8857c99107e8d7"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_FieldBattle_Middle0_key0_b.bfstm",
+      "size": 180896,
+      "sha256": "9668dcfb7674113adaa9a5d1c431f78d22ee3c3982390c211a8857c99107e8d7"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_FieldBattle_Middle0_key1_a.bfstm",
+      "size": 180896,
+      "sha256": "9668dcfb7674113adaa9a5d1c431f78d22ee3c3982390c211a8857c99107e8d7"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_FieldBattle_Middle0_key1_b.bfstm",
+      "size": 180896,
+      "sha256": "9668dcfb7674113adaa9a5d1c431f78d22ee3c3982390c211a8857c99107e8d7"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_FieldBattle_Middle0_key2_a.bfstm",
+      "size": 180896,
+      "sha256": "9668dcfb7674113adaa9a5d1c431f78d22ee3c3982390c211a8857c99107e8d7"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_FieldBattle_Middle0_key2_b.bfstm",
+      "size": 180896,
+      "sha256": "9668dcfb7674113adaa9a5d1c431f78d22ee3c3982390c211a8857c99107e8d7"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_FieldBattle_Middle1_key0_a.bfstm",
+      "size": 180896,
+      "sha256": "9668dcfb7674113adaa9a5d1c431f78d22ee3c3982390c211a8857c99107e8d7"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_FieldBattle_Middle1_key0_b.bfstm",
+      "size": 180896,
+      "sha256": "9668dcfb7674113adaa9a5d1c431f78d22ee3c3982390c211a8857c99107e8d7"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_FieldBattle_Middle1_key1_a.bfstm",
+      "size": 180896,
+      "sha256": "9668dcfb7674113adaa9a5d1c431f78d22ee3c3982390c211a8857c99107e8d7"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_FieldBattle_Middle1_key1_b.bfstm",
+      "size": 180896,
+      "sha256": "9668dcfb7674113adaa9a5d1c431f78d22ee3c3982390c211a8857c99107e8d7"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_FieldBattle_Middle1_key2_a.bfstm",
+      "size": 180896,
+      "sha256": "9668dcfb7674113adaa9a5d1c431f78d22ee3c3982390c211a8857c99107e8d7"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_FieldBattle_Middle1_key2_b.bfstm",
+      "size": 180896,
+      "sha256": "9668dcfb7674113adaa9a5d1c431f78d22ee3c3982390c211a8857c99107e8d7"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_FieldBattle_Middle2_key0_a.bfstm",
+      "size": 180896,
+      "sha256": "9668dcfb7674113adaa9a5d1c431f78d22ee3c3982390c211a8857c99107e8d7"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_FieldBattle_Middle2_key0_b.bfstm",
+      "size": 180896,
+      "sha256": "9668dcfb7674113adaa9a5d1c431f78d22ee3c3982390c211a8857c99107e8d7"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_FieldBattle_Middle2_key1_a.bfstm",
+      "size": 180896,
+      "sha256": "9668dcfb7674113adaa9a5d1c431f78d22ee3c3982390c211a8857c99107e8d7"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_FieldBattle_Middle2_key1_b.bfstm",
+      "size": 180896,
+      "sha256": "9668dcfb7674113adaa9a5d1c431f78d22ee3c3982390c211a8857c99107e8d7"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_FieldBattle_Middle2_key2_a.bfstm",
+      "size": 180896,
+      "sha256": "9668dcfb7674113adaa9a5d1c431f78d22ee3c3982390c211a8857c99107e8d7"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_FieldBattle_Middle2_key2_b.bfstm",
+      "size": 180896,
+      "sha256": "9668dcfb7674113adaa9a5d1c431f78d22ee3c3982390c211a8857c99107e8d7"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_FieldBattle_QuickIntro_key2.bfstm",
+      "size": 5554656,
+      "sha256": "b64581e8eaf170c9ebf797a818ff8de04954e9dca4ac8e09acef39d815fb1411"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_FieldBattle_outro_key0.bfstm",
+      "size": 292480,
+      "sha256": "e812c1aff6a07314776a3425444b4e39e7006c344fdfb94d89ed85a877c7679c"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_FieldBattle_outro_key1.bfstm",
+      "size": 286848,
+      "sha256": "8f927956d3915a938951d345b8aa2145fa8e573536bca9b8428f9c2cdaf2db08"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_FieldBattle_outro_key2.bfstm",
+      "size": 303808,
+      "sha256": "01421cbe1793143e1b3d948753e010e310afd6625c2b7d76b4d003064d9596f6"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_GuardianFixed.bfstm",
+      "size": 1237056,
+      "sha256": "6dcf86a3be5c755328a71f8cd734a4bcd98925934969e36892020deae8944f68"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_Guardian_main.bfstm",
+      "size": 9305568,
+      "sha256": "478a8c22d332c68ccba4767b4eaba0f2fc314dfe4b71bb7352ff179b80ca7c6f"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_Guardian_outro.bfstm",
+      "size": 530592,
+      "sha256": "f254e92cc021f6a4149248120e8e09c62894b921987b8459bd8aff87166f7e35"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_OmenOfBloodyMoon00a.bfstm",
+      "size": 1646976,
+      "sha256": "11d0f021fa2209c1d496df5b77d01568df6cd6943e3ec96006897acebf6c3f1e"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_OmenOfBloodyMoon00b.bfstm",
+      "size": 329728,
+      "sha256": "87fb78048dd9f4402462995835b160aa994602f9364a6088cb7afa25de01901f"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_OmenOfBloodyMoon01.bfstm",
+      "size": 206272,
+      "sha256": "4a004e0dc6f53e1cb603d4f3614f0a4009a1f000ccf4b478a81e02dfadce7fed"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_OmenOfBloodyMoon02a.bfstm",
+      "size": 110144,
+      "sha256": "58a9eba41b52c60e62613416e847d76674f718e05d74552fb73317707d48c4a7"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_OmenOfBloodyMoon02b.bfstm",
+      "size": 185728,
+      "sha256": "de06721df1a2ed342839cb5ffdac5fa52e45aee7081af6615565d4243d915a50"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_OmenOfBloodyMoon03.bfstm",
+      "size": 399712,
+      "sha256": "548e7a4e9b3bb1c905748607c1a60f1ba606441ac4167cd5f87c937d84e3c27f"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_SpSpot_MazeForest_main.bfstm",
+      "size": 12334240,
+      "sha256": "9335d100cd445bd3924aa7d934873f26542cea375428b94811b4294105d43c3a"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_Spot_FairySpring.bfstm",
+      "size": 12448096,
+      "sha256": "9517c5c960112d9913872d297c3a173e18527ffc140f9ab184b0aefabf305c1b"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_Spot_FrontierVillage_GerudoInvited.bfstm",
+      "size": 8025952,
+      "sha256": "a7e1bf99b680e8c9a8a2a4d6fdfe062ddf481bfa6e6f0157df0d9e5d677d1aea"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_Spot_FrontierVillage_GoronInvited.bfstm",
+      "size": 8025952,
+      "sha256": "9a2d8adacc2370646276c966fe39ecd03eea34d7d950455f504d9af8f80511fc"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_Spot_FrontierVillage_Married.bfstm",
+      "size": 8025952,
+      "sha256": "8fd66d7c18c66e1defadde9c807279e6fbc5b13811c64bafaae72fe2b4c42e5d"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_Spot_FrontierVillage_RitoInvited.bfstm",
+      "size": 8025952,
+      "sha256": "106e552294229e67f248979d1d96b9b8c4281801446054bd3a223e15304a6573"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_Spot_FrontierVillage_Start.bfstm",
+      "size": 8025952,
+      "sha256": "a7e1bf99b680e8c9a8a2a4d6fdfe062ddf481bfa6e6f0157df0d9e5d677d1aea"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_Spot_FrontierVillage_ZoraInvited.bfstm",
+      "size": 8025952,
+      "sha256": "2d910489996796ba0b394605cfa2f39db98148e60748ccdb4689894f973d3848"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_Spot_HorseGod.bfstm",
+      "size": 14785408,
+      "sha256": "e0a6d11b3ee6e90c9eca4cffc58580dca4fbebf2a019862fb3e424964b7e87eb"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_Spot_KakarikoVillage_Allday.bfstm",
+      "size": 15032896,
+      "sha256": "be85a0a319bc6079fd47f16ac65d1a007d8fc4752a9328438ddd9192a57bfa4b"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_Spot_NewGoronCity_Allday.bfstm",
+      "size": 11755456,
+      "sha256": "f06c71208d2df1500a616b6817c7f9e2e504c4a6522ab83394133882038c15eb"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_Spot_NewHatenoVillage_Allday.bfstm",
+      "size": 33069504,
+      "sha256": "b25a1e0765b8a3c3b3b45346f10bbdf056f38f835adbfb507a3f8ca50827ce89"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_Spot_NewKoroguForest_Allday.bfstm",
+      "size": 6607040,
+      "sha256": "0ad8409ff6f7a6d210009165ffbdd3a129f8351b53540e3c447e0b4952317dc8"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_Spot_NewZoraVillage_Allday.bfstm",
+      "size": 15359776,
+      "sha256": "9dbd2c98ec67ed6a7456bcb438d81bfe8dc747339c0efc67c264bfa00ef70069"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_Spot_RitoVillage_Allday.bfstm",
+      "size": 15480160,
+      "sha256": "9406b8a1bd76e2a14fcbe7210fe1e461efef9711d0544165e761978b5bd08e8e"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_Spot_Umayado.bfstm",
+      "size": 21887584,
+      "sha256": "b4b0c1fd8ef03310cba472ec7c3a40833720b2c40f813294f12aae315e63608e"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_horseDay_end.bfstm",
+      "size": 1118784,
+      "sha256": "ff48719532d7d7338af017061d595457b9afff670136165ad74105fa3537468a"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_horseDay_loop.bfstm",
+      "size": 9137792,
+      "sha256": "8b23fe59696d6dac7e8b6cd4d91fd485c40fd34f828efe63409cabbfe20f4a47"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_horseNight_end.bfstm",
+      "size": 1009856,
+      "sha256": "24f0f5380edd629a96c74957640e1026928a449f8cfca1ad0dc597c8f2d71d2e"
+    },
+    {
+      "path": "Sound/Resource/Stream/BGM_horseNight_loop.bfstm",
+      "size": 9980832,
+      "sha256": "fe0c4c63cd68dcf75764207f35fa0d5c6c9d0bb5c89b4a067dd17d3270d7a77a"
+    },
+    {
+      "path": "Sound/Resource/Stream/Bgm_Spot_AkkareAncientLabo.bfstm",
+      "size": 15177664,
+      "sha256": "5f8ced82ba4cb18ddf3399b2a80d709ed7a560ce770fafaefd424502a8ea720c"
+    },
+    {
+      "path": "Sound/Resource/Stream/Bgm_Spot_HatenoAncinetLabo.bfstm",
+      "size": 10159808,
+      "sha256": "f98085a7b150d4c44280aeb277805e3b2abab7107bd836b37f08c88b28e01b02"
+    },
+    {
+      "path": "Sound/Resource/Stream/Bgm_Spot_MamonoShop.bfstm",
+      "size": 14987424,
+      "sha256": "cce1f48b38b38aaaac2ac8602d5097fc0b2c2e8da2c8acc030ef1a55021e122e"
+    },
+    {
+      "path": "Sound/Resource/Stream/Event_BGM_PutPicture.bfstm",
+      "size": 13354368,
+      "sha256": "4b4bb9f79853fcd5fd306f4f7737e20e37e2354a23329eb116fb9e3f0cf5adf8"
+    },
+    {
+      "path": "Sound/Resource/Stream/Event_NV_Priest006.bfstm",
+      "size": 299008,
+      "sha256": "7e87efafbb3b9d29e683a9b869ef2386c5e11e789cf1c3c52409929b5793b2d8"
+    }
+  ]
+}
